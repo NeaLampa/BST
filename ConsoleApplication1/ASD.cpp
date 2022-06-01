@@ -39,6 +39,5 @@ int main()
 
     std::cout << b.isBST(root);
 
-
     return 0;
 }
